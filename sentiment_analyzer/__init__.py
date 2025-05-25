@@ -1,0 +1,1 @@
+from .RNN_SentimentAnalyzer import SentimentAnalyzer
